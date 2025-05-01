@@ -17,4 +17,5 @@
 
 -   Accuracy of 89.15% on test set
 
-![image](https://github.com/user-attachments/assets/a47bcdde-5fe9-4a36-824c-08bffd4e0df7)
+![image](https://github.com/user-attachments/assets/a9c9a70d-47d1-4964-8a10-c39d770e93af)
+
