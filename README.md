@@ -1,0 +1,1 @@
+\*\*Modified U-Net implementation based on https://arxiv.org/pdf/1505.04597 + Training and evaluation on The Oxford-IIIT Pet Dataset (trimap (background, border, pet) segmentation) (https://www.robots.ox.ac.uk/~vgg/data/pets/)\*\*
